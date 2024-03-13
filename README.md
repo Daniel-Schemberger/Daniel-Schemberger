@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔭 Concluindo minha graduação (Bacharelado em Física)
+- 🔭 Bacharel em Física pela UEPG
 - 🌱 Aprimorando meus conhecimentos em SQL e Python com ênfase em aplicações voltadas a ciência de dados
 - 👯 Em busca de um primeiro emprego na área de ciência de dados
 
