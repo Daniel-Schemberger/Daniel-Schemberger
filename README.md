@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 Bacharel em Física pela UEPG
-- 🌱 Aprimorando meus conhecimentos em SQL e Python com ênfase em aplicações voltadas a ciência de dados
+- 🌱 Aprimorando meus conhecimentos em Python, Machine Learning e SQL com ênfase em aplicações voltadas a ciência de dados
 - 👯 Em busca de um primeiro emprego na área de ciência de dados
 
 # Me siga😊 : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielsch_skt/)
